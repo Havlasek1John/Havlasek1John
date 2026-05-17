@@ -8,21 +8,19 @@ Licensing notes below are a public-facing summary, not a replacement for reposit
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:111827,100:2563eb&height=270&section=header&text=John%20%2F%20Jan%20Havlasek&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Qyvaria%20Founder%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybernetics%20%26%20Intelligent%20Control&descAlignY=62&descSize=20" alt="John / Jan Havlasek header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:111827,100:2563eb&height=270&section=header&text=John%20Jan%20Havlasek&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Qyvaria%20Founder%20AI%20Engineer%20Cybernetics%20Intelligent%20Control&descAlignY=62&descSize=20" alt="John Jan Havlasek profile header" />
+</p>
+
+<h1 align="center">John / Jan Havlasek</h1>
+
+<h3 align="center">Qyvaria Founder · AI Engineer · Cybernetics & Intelligent Control</h3>
+
+<p align="center">
+  <strong>Building modular AI ecosystems for orchestration, simulation, runtime thinking, human-centered control, and long-horizon engineering.</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&center=true&vCenter=true&multiline=true&width=1100&height=105&lines=AI+Engineer+%7C+Cybernetics+%7C+Human%E2%80%93Machine+Systems;Building+Qyvaria%2C+Qyvaria+AI%2C+and+Qyvaria+OS;Commercial-Friendly+Public+Releases+%2B+Protected+Core+Architecture" alt="Typing SVG" />
-</p>
-
-<h1 align="center">Hi, I'm John / Jan Havlasek 👋</h1>
-
-<p align="center">
-  <strong>AI Engineer · Cybernetics & Intelligent Control · Human–Machine Systems · Qyvaria Founder</strong>
-</p>
-
-<p align="center">
-  I build ambitious AI-oriented software systems, simulation concepts, orchestration frameworks, human-centered intelligent tools, and the evolving <strong>Qyvaria ecosystem</strong>.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&center=true&vCenter=true&multiline=true&width=1100&height=105&lines=AI+Engineer+%7C+Cybernetics+%7C+Human-Machine+Systems;Building+Qyvaria%2C+Qyvaria+AI%2C+and+Qyvaria+OS;Commercial-Friendly+Public+Releases+%2B+Protected+Core+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -57,6 +55,7 @@ Licensing notes below are a public-facing summary, not a replacement for reposit
   <a href="#about-john--jan-havlasek">About</a> ·
   <a href="#qyvaria-ecosystem">Qyvaria Ecosystem</a> ·
   <a href="#qyvaria-os">Qyvaria OS</a> ·
+  <a href="#qyvaria-control--engineering-graphs">System Graphs</a> ·
   <a href="#featured-projects">Featured Projects</a> ·
   <a href="#engineering-stack">Engineering Stack</a> ·
   <a href="#github-analytics">GitHub Analytics</a> ·
@@ -302,6 +301,49 @@ The Qyvaria body of work explores many connected ideas, including:
 
 ---
 
+
+# Qyvaria Control & Engineering Graphs
+
+## Human-Controlled Orchestration Loop
+
+```mermaid
+flowchart LR
+    H[Human Intent] --> S[Scope, Policy, and Direction]
+    S --> O[Qyvaria Orchestration Layer]
+    O --> M[Modules, Agents, and Tools]
+    M --> E[Evaluation, Safety, and Review]
+    E --> R[Traceable Outputs]
+    R --> H
+    E --> L[Logs, Memory, and Feedback]
+    L --> O
+```
+
+## Ecosystem Build Pipeline
+
+```mermaid
+flowchart TD
+    V[Vision and Long-Horizon Direction] --> R[Research and Concept Design]
+    R --> P[Prototype Modules]
+    P --> T[Testing, Simulation, and Evaluation]
+    T --> D[Documentation and Public Positioning]
+    D --> G[GitHub Repositories and Tooling]
+    G --> F[Feedback, Iteration, and Refinement]
+    F --> R
+```
+
+## Qyvaria System Layers
+
+| Layer | Responsibility | Public Profile Signal |
+| --- | --- | --- |
+| **Human Direction** | Purpose, permissions, final judgment | Human-centered intelligence |
+| **Orchestration** | Coordinating modules, tasks, workflows | Qyvaria OS vision |
+| **Intelligence Utilities** | Prompt systems, reasoning helpers, analysis flows | Qyvaria AI |
+| **Simulation & Testing** | Controlled experimentation, evaluation ideas | Engineering discipline |
+| **Documentation** | Public context, technical narratives, clarity | Long-term ecosystem building |
+| **Protected Core** | Strategic foundations and unreleased architecture | Ownership and continuity |
+
+---
+
 # Featured Projects
 
 ## Core Public Repositories
@@ -388,8 +430,21 @@ The Qyvaria body of work explores many connected ideas, including:
 # GitHub Analytics
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Havlasek1John&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophy dashboard" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Havlasek1John&theme=tokyonight" alt="GitHub profile details analytics" />
+</p>
+
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Havlasek1John&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=14" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havlasek1John&layout=compact&hide_border=true&theme=tokyonight&border_radius=14" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Havlasek1John&theme=tokyonight" alt="Languages by repository" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Havlasek1John&theme=tokyonight" alt="Languages by commits" />
 </p>
 
 <p align="center">
@@ -397,8 +452,19 @@ The Qyvaria body of work explores many connected ideas, including:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Havlasek1John&theme=tokyo-night&hide_border=true&radius=14" alt="GitHub activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Havlasek1John&theme=tokyo-night&hide_border=true&radius=14&area=true" alt="GitHub activity graph" />
 </p>
+
+## Analytics Readout
+
+| Visual | What it communicates |
+| --- | --- |
+| **Trophy Dashboard** | Visible milestones, public GitHub achievements, and progress signals |
+| **Profile Details Graph** | Contribution rhythm and account-level development activity |
+| **Stats + Top Languages** | Repository activity, public engineering footprint, and language distribution |
+| **Repository vs Commit Language Cards** | Difference between repository breadth and commit concentration |
+| **Streak Card** | Consistency and sustained activity patterns |
+| **Activity Graph** | Recent contribution momentum over time |
 
 ---
 
