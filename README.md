@@ -446,8 +446,8 @@ flowchart TD
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Havlasek1John&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&border_radius=14" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havlasek1John&layout=compact&hide_border=true&theme=tokyonight&border_radius=14" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Havlasek1John&theme=tokyonight" alt="GitHub statistics summary" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Havlasek1John&theme=tokyonight&utcOffset=0" alt="Productive time analytics" />
 </p>
 
 <p align="center">
