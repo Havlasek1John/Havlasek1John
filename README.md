@@ -348,20 +348,28 @@ flowchart TD
 
 ## Core Public Repositories
 
-<p align="center">
-  <a href="https://github.com/Havlasek1John/Qyvaria-OS-">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havlasek1John&repo=Qyvaria-OS-&theme=tokyonight&hide_border=true&border_radius=14" alt="Qyvaria OS repository card" />
-  </a>
-  <a href="https://github.com/Havlasek1John/Qyvaria-AI">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havlasek1John&repo=Qyvaria-AI&theme=tokyonight&hide_border=true&border_radius=14" alt="Qyvaria AI repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Havlasek1John/Qyvaria-AI-Information">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havlasek1John&repo=Qyvaria-AI-Information&theme=tokyonight&hide_border=true&border_radius=14" alt="Qyvaria AI Information repository card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Havlasek1John/Qyvaria-OS-">Qyvaria OS</a></h3>
+      <p align="center"><strong>AI browser · orchestration environment · public release hub</strong></p>
+      <p>System-level repository for Qyvaria OS release materials, installer documentation, public licensing files, security notes, and long-term orchestration direction.</p>
+      <p align="center"><a href="https://github.com/Havlasek1John/Qyvaria-OS-"><strong>Open Repository →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Havlasek1John/Qyvaria-AI">Qyvaria AI</a></h3>
+      <p align="center"><strong>Applied intelligence · experiments · AI tooling direction</strong></p>
+      <p>Public project space for Qyvaria AI concepts, intelligent software experimentation, emerging utilities, and the applied intelligence side of the ecosystem.</p>
+      <p align="center"><a href="https://github.com/Havlasek1John/Qyvaria-AI"><strong>Open Repository →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Havlasek1John/Qyvaria-AI-Information">Qyvaria AI Information</a></h3>
+      <p align="center"><strong>Open data · public context · ecosystem information</strong></p>
+      <p>Documentation-centered repository for public Qyvaria information, open-source data, ecosystem framing, and reference material supporting the wider vision.</p>
+      <p align="center"><a href="https://github.com/Havlasek1John/Qyvaria-AI-Information"><strong>Open Repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ## Repository Overview
 
