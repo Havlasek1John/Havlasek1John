@@ -1,11 +1,23 @@
 <!--
-Profile README for: Havlasek1John
-Repository name must be exactly: Havlasek1John
-Place this file at: Havlasek1John/README.md
-
-This profile README is intentionally ambitious and highly visual while staying within GitHub-renderable Markdown + HTML patterns.
-Licensing notes below are a public-facing summary, not a replacement for repository-specific LICENSE files or legal advice.
+Bilingual GitHub profile README for: Havlasek1John
+Use this file as README.md if you want English and Czech in one file with internal anchor links.
 -->
+
+<p align="center">
+  <strong>Language / Jazyk:</strong>
+  <a href="#english-version"><strong>English</strong></a> ·
+  <a href="#ceska-verze"><strong>Čeština</strong></a>
+</p>
+
+<p align="center">
+  <em>Click a language above to jump between English and Czech sections inside this README.</em>
+</p>
+
+---
+
+<a id="english-version"></a>
+
+# English Version
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:111827,100:2563eb&height=270&section=header&text=John%20Jan%20Havlasek&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Qyvaria%20Founder%20AI%20Engineer%20Cybernetics%20Intelligent%20Control&descAlignY=62&descSize=20" alt="John Jan Havlasek profile header" />
@@ -643,6 +655,689 @@ I am building **Qyvaria**, **Qyvaria AI**, and **Qyvaria OS** as ambitious, long
 My work is guided by a simple belief:
 
 > **The future of AI will be shaped not only by stronger models, but by better systems around them — better orchestration, better interfaces, better control, better documentation, better safety boundaries, and better alignment between human purpose and machine capability.**
+
+<p align="center">
+  <em>Engineering intelligent systems with clarity, ambition, and long-term vision.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:111827,100:0f172a&height=125&section=footer" alt="Footer banner" />
+</p>
+
+
+---
+
+<a id="ceska-verze"></a>
+
+# Česká verze
+
+<p align="center">
+  <strong>Language / Jazyk:</strong>
+  <a href="README.md"><strong>English</strong></a> ·
+  <a href="README.cs.md"><strong>Čeština</strong></a>
+</p>
+
+<p align="center">
+  <em>Kliknutím na jazyk výše přepneš mezi anglickou a českou verzí GitHub profilu.</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:111827,100:2563eb&height=270&section=header&text=John%20Jan%20Havlasek&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Zakladatel%20Qyvaria%20AI%20Engineer%20Cybernetics%20Intelligent%20Control&descAlignY=62&descSize=20" alt="Profilový banner John Jan Havlasek" />
+</p>
+
+<h1 align="center">John / Jan Havlasek</h1>
+
+<h3 align="center">Zakladatel Qyvaria · AI engineer · Kybernetika & inteligentní řízení</h3>
+
+<p align="center">
+  <strong>Budování modulárních AI ekosystémů pro orchestraci, simulace, runtime thinking, člověkem řízenou kontrolu a dlouhodobé inženýrství.</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&center=true&vCenter=true&multiline=true&width=1100&height=105&lines=AI+Engineer+%7C+Kybernetika+%7C+Human-Machine+Systems;Budovani+Qyvaria%2C+Qyvaria+AI+a+Qyvaria+OS;Commercial-Friendly+Public+Releases+%2B+Protected+Core+Architecture" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://qyvaria-ai-studio-index.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Qyvaria%20AI%20Studio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Qyvaria AI Studio" />
+  </a>
+  <a href="https://github.com/Havlasek1John">
+    <img src="https://img.shields.io/badge/GitHub-Havlasek1John-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Havlasek1John&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Zobrazení profilu" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Havlasek1John?style=for-the-badge&logo=github&label=Followers&color=0f172a" alt="GitHub sledující" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-2563eb?style=for-the-badge" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Cybernetics-334155?style=for-the-badge" alt="Kybernetika" />
+  <img src="https://img.shields.io/badge/Project-Qyvaria%20OS-1d4ed8?style=for-the-badge" alt="Qyvaria OS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Model-Hybrid%20Public%20%2B%20Protected%20Core-0f172a?style=for-the-badge" alt="Hybridní licenční model" />
+  <img src="https://img.shields.io/badge/Commercial%20Use-Free%20Where%20Expressly%20Granted-16a34a?style=for-the-badge" alt="Komerční použití" />
+  <img src="https://img.shields.io/badge/Builder-Long--Term%20Systems%20Thinking-7c3aed?style=for-the-badge" alt="Systémové myšlení" />
+</p>
+
+---
+
+<a id="navigace"></a>
+# Navigace
+
+<p align="center">
+  <a href="#ridici-panel-mise">Řídicí panel mise</a> ·
+  <a href="#o-johnovi--janovi-havlaskovi">O mně</a> ·
+  <a href="#ekosystem-qyvaria">Ekosystém Qyvaria</a> ·
+  <a href="#qyvaria-os">Qyvaria OS</a> ·
+  <a href="#grafy-rizeni-a-inzenyrstvi-qyvaria">Systémové grafy</a> ·
+  <a href="#vybrane-projekty">Vybrané projekty</a> ·
+  <a href="#inzenyrsky-stack">Inženýrský stack</a> ·
+  <a href="#github-analytika">GitHub analytika</a> ·
+  <a href="#licencni-filozofie">Licencování</a> ·
+  <a href="#spoluprace">Spolupráce</a>
+</p>
+
+---
+
+<a id="ridici-panel-mise"></a>
+# Řídicí panel mise
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Identita</h3>
+      <p><strong>John / Jan Havlasek</strong></p>
+      <p>AI engineer, systémový myslitel, tvůrce zaměřený na kybernetiku a zakladatel ekosystému Qyvaria.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Mise</h3>
+      <p>Navrhovat inteligentní systémy, které spojují <strong>schopnosti AI</strong>, <strong>lidskou kontrolu</strong>, <strong>simulaci</strong> a <strong>dlouhodobou architekturu</strong>.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Model tvorby</h3>
+      <p><strong>Veřejné releasy přátelské ke komerčnímu použití</strong> tam, kde je to výslovně povoleno, se zachováním <strong>chráněného jádra IP</strong> a strategického vlastnictví.</p>
+    </td>
+  </tr>
+</table>
+
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│ SYSTEM PROFILE                                                      │
+├─────────────────────────────────────────────────────────────────────┤
+│ Founder        : John / Jan Havlasek                                │
+│ Ecosystem      : Qyvaria · Qyvaria AI · Qyvaria OS                  │
+│ Core Focus     : AI systems · cybernetics · intelligent control     │
+│ Build Style    : modular · orchestration-first · future-facing      │
+│ Human Principle: people remain in command of intelligent systems    │
+│ Access Model   : explicit commercial use + protected core           │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<a id="o-johnovi--janovi-havlaskovi"></a>
+# O Johnovi / Janovi Havlaskovi
+
+Jsem **John / Jan Havlasek**, AI zaměřený engineer a tvůrce pracující na průsečíku:
+
+* **Umělé inteligence**
+* **Kybernetiky**
+* **Inteligentního řízení**
+* **Simulačně orientovaného inženýrství**
+* **Systémů člověk–stroj**
+* **Automatizace a orchestrace**
+* **Dlouhodobých softwarových ekosystémů**
+
+Buduję veřejnou technickou identitu kolem **ekosystému Qyvaria** — rodiny projektů a myšlenek zaměřených na pokročilé AI systémy, modulární orchestraci, simulační koncepty, technické experimentování a dlouhodobou softwarovou architekturu.
+
+Můj přístup není jen o vytváření izolovaných skriptů. Zajímá mě navrhování **systémů, které se mohou vyvíjet**:
+
+* Systémy se strukturou, ne náhodné hromadění funkcí
+* AI workflow s logikou, ne pouze prompty
+* Moduly, které spolupracují, ne jen samostatně existují
+* Software zaměřený na člověka, který zvyšuje schopnosti bez odebrání kontroly
+* Veřejná technická práce, která komunikuje širší vizi
+
+Věřím, že další generace užitečného AI softwaru nebude záviset jen na silnějších modelech, ale také na lepších **koordinačních vrstvách**, **paměťových strukturách**, **rozhodovacích tocích**, **bezpečnostních hranicích**, **evaluačních nápadech** a **rozhraních mezi lidmi a stroji**.
+
+Tato víra se promítá do rostoucího směru Qyvaria.
+
+---
+
+<a id="filozofie-tvorby"></a>
+# Filozofie tvorby
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Systémy místo fragmentů</h3>
+      <p>Jedna funkce může být působivá. Koherentní systém se může stát platformou. Navrhuji směrem k ekosystémům, architekturám a opakovaně použitelným technickým základům.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI se směrem</h3>
+      <p>Zajímá mě AI, která je strukturovaná, řízená, kontrolovatelná a propojená s reálnými workflow — ne jen přidaná jako dekorace.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Kybernetické myšlení</h3>
+      <p>Zpětné vazby, adaptace, řízení a interakce člověk–stroj ovlivňují způsob, jakým přemýšlím o inteligentním softwaru a orchestraci.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Inteligence zaměřená na člověka</h3>
+      <p>Inteligentní systémy by měly zvyšovat lidskou jasnost, schopnosti a kreativní sílu, zatímco zachovávají smysluplnou kontrolu.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="ekosystem-qyvaria"></a>
+# Ekosystém Qyvaria
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Qyvaria-Ecosystem-1d4ed8?style=for-the-badge" alt="Ekosystém Qyvaria" />
+  <img src="https://img.shields.io/badge/Qyvaria%20AI-Intelligent%20Software-2563eb?style=for-the-badge" alt="Qyvaria AI" />
+  <img src="https://img.shields.io/badge/Qyvaria%20OS-Orchestration%20Vision-0f172a?style=for-the-badge" alt="Qyvaria OS" />
+</p>
+
+**Qyvaria** je zastřešující identita pro rostoucí kolekci AI orientovaných, inženýrských a budoucnostně zaměřených softwarových nápadů. Staví na principu, že inteligentní technologie má být:
+
+* **Užitečná**
+* **Rozšiřitelná**
+* **Řízená člověkem**
+* **Technicky seriózní**
+* **Kreativní, ale disciplinovaná**
+* **Dostupná tam, kde je to možné**
+* **Chráněná tam, kde je to nutné**
+
+Qyvaria má sjednocovat několik technických směrů pod jednu koherentní vizi:
+
+| Směr | Účel |
+| --- | --- |
+| **Qyvaria AI** | AI systémy, promptové utility, agentní experimenty a inteligentní tooling |
+| **Qyvaria OS** | Systémový koncept orchestrace pro modulární AI workflow, runtime thinking a člověkem řízená inteligentní prostředí |
+| **Qyvaria Documentation** | Veřejné informace, popisy projektů, směrování a otevřené materiály |
+| **Simulation Concepts** | Strukturované experimenty pro zkoumání inteligentního chování, koordinace a inženýrských modelů |
+| **Tooling & Utilities** | Praktické softwarové části podporující generování, testování, analýzu, organizaci a automatizaci |
+
+---
+
+<a id="architektura-ekosystemu"></a>
+## Architektura ekosystému
+
+```mermaid
+flowchart LR
+    J[John / Jan Havlasek] --> Q[Qyvaria]
+    Q --> OS[Qyvaria OS]
+    Q --> AI[Qyvaria AI]
+    Q --> INFO[Qyvaria AI Information]
+    Q --> LAB[Engineering Experiments]
+
+    OS --> ORCH[Orchestrační vrstva]
+    OS --> RUNTIME[Runtime koncepty]
+    OS --> CONTROL[Kontrolní rozhraní pro člověka]
+
+    AI --> AGENTS[Agentní systémy]
+    AI --> PROMPT[Prompt engineering]
+    AI --> EVAL[Evaluace a reasoning utility]
+
+    LAB --> SIM[Simulační projekty]
+    LAB --> VOICE[Voice / multimodální koncepty]
+    LAB --> TOOLS[Vývojářské nástroje]
+```
+
+---
+
+<a id="qyvaria-os"></a>
+# Qyvaria OS
+
+**Qyvaria OS** je jeden z nejambicióznějších pilířů ekosystému. Název „OS“ vyjadřuje **systémový přístup**: koordinované prostředí pro inteligentní moduly, AI workflow, orchestrační nápady, inženýrské experimenty a člověkem řízenou kontrolu.
+
+Qyvaria OS není jen název. Reprezentuje filozofii:
+
+> **Inteligentní software by měl být organizovaný jako prostředí, ne rozptýlený jako odpojené utility.**
+
+## Co Qyvaria OS představuje
+
+* Modulární orchestrační mindset
+* Budoucnostně zaměřené AI prostředí
+* Koncepční řídicí rovinu pro pokročilá workflow
+* Místo, kde se potkávají runtime, agenti, paměť a rozhraní
+* Veřejný směr pro systémové inženýrské experimenty
+* Člověkem řízený přístup ke komplexním inteligentním nástrojům
+
+## Designová témata Qyvaria OS
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Modularita</h3>
+      <p>Schopnosti by měly být rozšiřitelné bez rozbití struktury většího systému.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Orchestrace</h3>
+      <p>Inteligentní komponenty jsou užitečnější, když se umí koordinovat napříč úkoly, nástroji a fázemi.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Kontrola</h3>
+      <p>Člověk zůstává vlastníkem účelu, oprávnění, směru a finálního úsudku.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Simulace</h3>
+      <p>Komplexní nápady lze testovat, modelovat a zpřesňovat dříve, než se stanou trvalými systémy.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Runtime thinking</h3>
+      <p>Qyvaria OS zkoumá, jak mohou moduly, politiky, agenti a nástroje fungovat jako koordinované prostředí.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Dlouhodobý růst</h3>
+      <p>Ekosystém je navržený tak, aby rostl přes repozitáře, dokumenty, prototypy a architektonický vývoj.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="qyvaria-ai"></a>
+# Qyvaria AI
+
+**Qyvaria AI** je aplikační inteligentní vrstva ekosystému. Zaměřuje se na to, jak používat AI prakticky, strukturovaně a ambiciózně.
+
+## Oblasti zájmu
+
+* Prompt engineering a generační systémy
+* AI asistovaná kreativita a technické psaní
+* Koncepty agentních workflow
+* Utility orientované na modely
+* Inteligentní analytické pipeline
+* Human review loops
+* Paměť, bezpečnost a odpovědnost
+* Hlasové a multimodální experimenty
+* Simulačně řízený návrh chování
+
+## Proč na tom záleží
+
+Zajímá mě posun od „AI jako funkce“ k **AI jako infrastruktuře**: něčemu, co dokáže propojit nástroje, moduly, data, rozhraní a záměr uživatele do větších inteligentních workflow.
+
+---
+
+<a id="soucasne-technicke-smerovani"></a>
+# Současné technické směřování
+
+Tvorba Qyvaria zkoumá mnoho propojených nápadů:
+
+| Oblast | Směr |
+| --- | --- |
+| **Agentní systémy** | Vícekrokové inteligentní chování s dohledem člověka |
+| **Simulační moduly** | Kontrolovaná prostředí pro zkoumání chování systémů |
+| **Kernel / mesh thinking** | Koordinované runtime nápady pro větší ekosystémy |
+| **Paměťové systémy** | Kontext, retrieval, kontinuita a strukturovaný stav |
+| **Voice / multimodální koncepty** | Konverzační runtime a bohatší rozhraní |
+| **Reasoning utility** | Evaluace, plánování, analýza a strukturované výstupy |
+| **Vývojářské nástroje** | Kód, workflow, analýza a pomocníci pro automatizaci |
+| **Bezpečnost & odpovědnost** | Human-in-loop, vysvětlitelné, logované a vratné chování |
+
+---
+
+<a id="grafy-rizeni-a-inzenyrstvi-qyvaria"></a>
+# Grafy řízení a inženýrství Qyvaria
+
+## Člověkem řízená orchestrační smyčka
+
+```mermaid
+flowchart LR
+    H[Lidský záměr] --> S[Rozsah, pravidla a směr]
+    S --> O[Orchestrační vrstva Qyvaria]
+    O --> M[Moduly, agenti a nástroje]
+    M --> E[Evaluace, bezpečnost a kontrola]
+    E --> R[Sledovatelné výstupy]
+    R --> H
+    E --> L[Logy, paměť a zpětná vazba]
+    L --> O
+```
+
+## Pipeline budování ekosystému
+
+```mermaid
+flowchart TD
+    V[Vize a dlouhodobý směr] --> R[Výzkum a návrh konceptu]
+    R --> P[Prototypové moduly]
+    P --> T[Testování, simulace a evaluace]
+    T --> D[Dokumentace a veřejné pozicování]
+    D --> G[GitHub repozitáře a tooling]
+    G --> F[Zpětná vazba, iterace a zpřesnění]
+    F --> R
+```
+
+## Vrstvy systému Qyvaria
+
+| Vrstva | Odpovědnost | Veřejný signál profilu |
+| --- | --- | --- |
+| **Lidské řízení** | Účel, oprávnění, finální úsudek | Inteligence zaměřená na člověka |
+| **Orchestrace** | Koordinace modulů, úkolů a workflow | Vize Qyvaria OS |
+| **Inteligentní utility** | Prompt systémy, reasoning helpers, analytické toky | Qyvaria AI |
+| **Simulace & testování** | Kontrolované experimentování a evaluace | Inženýrská disciplína |
+| **Dokumentace** | Veřejný kontext, technický narativ a jasnost | Dlouhodobé budování ekosystému |
+| **Chráněné jádro** | Strategické základy a neuvolněná architektura | Vlastnictví a kontinuita |
+
+---
+
+<a id="vybrane-projekty"></a>
+# Vybrané projekty
+
+## Hlavní veřejné repozitáře
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Havlasek1John/Qyvaria-OS-">Qyvaria OS</a></h3>
+      <p align="center"><strong>AI browser · orchestrační prostředí · public release hub</strong></p>
+      <p>Systémový repozitář pro release materiály Qyvaria OS, dokumentaci instalátoru, veřejné licenční soubory, bezpečnostní poznámky a dlouhodobý orchestrační směr.</p>
+      <p align="center"><a href="https://github.com/Havlasek1John/Qyvaria-OS-"><strong>Otevřít repozitář →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Havlasek1John/Qyvaria-AI">Qyvaria AI</a></h3>
+      <p align="center"><strong>Aplikovaná inteligence · experimenty · směr AI toolingu</strong></p>
+      <p>Veřejný projektový prostor pro koncepty Qyvaria AI, experimentování s inteligentním softwarem, vznikající utility a aplikační inteligentní část ekosystému.</p>
+      <p align="center"><a href="https://github.com/Havlasek1John/Qyvaria-AI"><strong>Otevřít repozitář →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Havlasek1John/Qyvaria-AI-Information">Qyvaria AI Information</a></h3>
+      <p align="center"><strong>Otevřená data · veřejný kontext · informace o ekosystému</strong></p>
+      <p>Dokumentačně orientovaný repozitář pro veřejné informace Qyvaria, open-source data, rámování ekosystému a referenční materiál podporující širší vizi.</p>
+      <p align="center"><a href="https://github.com/Havlasek1John/Qyvaria-AI-Information"><strong>Otevřít repozitář →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+## Přehled repozitářů
+
+| Projekt | Role v ekosystému |
+| --- | --- |
+| **[Qyvaria-OS-](https://github.com/Havlasek1John/Qyvaria-OS-)** | Systémový projektový prostor pro orchestraci, inteligentní prostředí a OS-style technickou ambici |
+| **[Qyvaria-AI](https://github.com/Havlasek1John/Qyvaria-AI)** | AI zaměřený repozitář pro inteligentní utility, experimenty a aplikované nápady Qyvaria |
+| **[Qyvaria-AI-Information](https://github.com/Havlasek1John/Qyvaria-AI-Information)** | Veřejné informace, dokumentace, směr a kontext ekosystému |
+
+---
+
+<a id="inzenyrsky-stack"></a>
+# Inženýrský stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,powershell,git,github,vscode,linux,vercel,html,css,js" alt="Ikony hlavního stacku" />
+</p>
+
+## Používané technologie
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-Public%20Engineering-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Systems-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vercel-Web%20Publishing-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/AI-Orchestration-7c3aed?style=for-the-badge" alt="AI orchestration" />
+  <img src="https://img.shields.io/badge/Simulation-Engineering-0f766e?style=for-the-badge" alt="Simulation engineering" />
+</p>
+
+## Inženýrské praktiky
+
+* Modulární skriptování a utility
+* Identita repozitářů a veřejné pozicování
+* Dlouhá technická dokumentace
+* Návrh AI workflow
+* Systémové myšlení zaměřené na člověka
+* Experimentální architektura s cestou ke struktuře
+* Komerčně užitečné releasy tam, kde to podmínky výslovně dovolují
+* Chráněné strategické základy tam, kde musí zůstat jasné vlastnictví
+
+---
+
+<a id="matice-zamereni"></a>
+# Matice zaměření
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>AI Engineering</strong><br/>Prompt systémy, evaluace, agenti, orchestrace a inteligentní utility.</td>
+    <td width="25%" valign="top"><strong>Kybernetika</strong><br/>Zpětná vazba, řízení, adaptace, chování systémů a smyčky člověk–stroj.</td>
+    <td width="25%" valign="top"><strong>Simulace</strong><br/>Modelování, experimenty, behaviorální testování a runtime exploration.</td>
+    <td width="25%" valign="top"><strong>Automatizace</strong><br/>Opakovatelná workflow, tooling, systémová koordinace a užitečná páka.</td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Systémy člověk–stroj</strong><br/>Rozhraní, která zachovávají kontrolu a zároveň zvyšují schopnosti.</td>
+    <td width="25%" valign="top"><strong>Agentní koncepty</strong><br/>Dekompozice úkolů, spolupráce modulů a řízená autonomie.</td>
+    <td width="25%" valign="top"><strong>Dokumentace</strong><br/>Jasný veřejný kontext, technické směřování a projektové narativy.</td>
+    <td width="25%" valign="top"><strong>Hybridní licencování</strong><br/>Dostupné veřejné releasy plus chráněné vlastnictví jádra.</td>
+  </tr>
+</table>
+
+---
+
+<a id="github-analytika"></a>
+# GitHub analytika
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Havlasek1John&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophy dashboard" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Havlasek1John&theme=tokyonight" alt="GitHub profile details analytics" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Havlasek1John&theme=tokyonight" alt="GitHub statistics summary" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Havlasek1John&theme=tokyonight&utcOffset=0" alt="Productive time analytics" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Havlasek1John&theme=tokyonight" alt="Jazyky podle repozitářů" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Havlasek1John&theme=tokyonight" alt="Jazyky podle commitů" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Havlasek1John&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Havlasek1John&theme=tokyo-night&hide_border=true&radius=14&area=true" alt="GitHub activity graph" />
+</p>
+
+## Vysvětlení analytiky
+
+| Vizuál | Co komunikuje |
+| --- | --- |
+| **Trophy Dashboard** | Viditelné milníky, veřejné GitHub úspěchy a signály pokroku |
+| **Profile Details Graph** | Rytmus příspěvků a vývojová aktivita účtu |
+| **Stats + Top Languages** | Aktivita repozitářů, veřejná technická stopa a rozložení jazyků |
+| **Repository vs Commit Language Cards** | Rozdíl mezi šířkou repozitářů a koncentrací commitů |
+| **Streak Card** | Konzistence a dlouhodobé vzorce aktivity |
+| **Activity Graph** | Nedávný příspěvkový momentum v čase |
+
+---
+
+<a id="licencni-filozofie"></a>
+# Licenční filozofie
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Access-Commercial--Friendly%20Where%20Explicitly%20Granted-16a34a?style=for-the-badge" alt="Commercial friendly" />
+  <img src="https://img.shields.io/badge/Core%20Code-Protected%20Ownership-111827?style=for-the-badge" alt="Protected core" />
+  <img src="https://img.shields.io/badge/Model-Hybrid%20Public%20%2B%20Private%20Core-2563eb?style=for-the-badge" alt="Hybrid model" />
+</p>
+
+Ústředním principem mé veřejné softwarové práce je **hybridní přístupový model**:
+
+> **Chci, aby veřejně vydaný software Qyvaria byl užitečný, široce dostupný a komerčně přívětivý tam, kde je toto povolení výslovně uděleno, a zároveň aby zůstalo zachováno vlastnictví chráněného core kódu, proprietární architektury, neuvolněných modulů, strategických implementací a dlouhodobé integrity ekosystému Qyvaria.**
+
+## Komerčně přívětivý přístup
+
+Mým záměrem je umožnit **bezplatné komerční použití** vydaného softwaru **tehdy, když to konkrétní licence a dokumentace repozitáře výslovně povolují**. To pomáhá:
+
+* Nezávislým tvůrcům
+* Výzkumníkům
+* Startupům
+* Firmám
+* Kreativcům
+* Technickým spolupracovníkům
+
+používat veřejné nástroje ve smysluplných reálných kontextech bez zbytečných bariér.
+
+## Vlastnictví chráněného jádra
+
+Zároveň si ponechávám kontrolu nad:
+
+* Chráněným core kódem
+* Proprietární architekturou
+* Strategickými moduly
+* Interními implementacemi
+* Neuvolněnými systémy
+* Brand identitou spojenou s Johnem / Janem Havlaskem, Qyvaria a Qyvaria OS
+
+To zachovává schopnost dlouhodobě budovat, držet koherentní směr a chránit původní technickou práci.
+
+## Praktické shrnutí
+
+| Vrstva | Pozice přístupu |
+| --- | --- |
+| Veřejně vydané utility | Mohou být komerčně použitelné tam, kde to říkají podmínky repozitáře |
+| Otevřená dokumentace | Slouží ke komunikaci nápadů, směru a kontextu |
+| Core intelektuální vlastnictví | Zůstává u tvůrce nebo relevantní entity Qyvaria a je chráněno |
+| Konkrétní licence repozitáře | Vždy určuje přesné právní povolení |
+
+## Důležitá poznámka
+
+Tento profilový README vysvětluje celkovou filozofii. Nenahrazuje:
+
+* Soubor `LICENSE` v repozitáři
+* Písemné podmínky komerčního povolení
+* Poznámky ve zdrojových souborech
+* Podmínky pro přispěvatele
+* Formální právní poradenství
+
+Kde není výslovné povolení uvedeno, neměla by být předpokládána žádná další práva nad rámec toho, co repozitář jasně uděluje.
+
+---
+
+<a id="verejne-prohlaseni-o-komercnim-pouziti"></a>
+# Veřejné prohlášení o komerčním použití
+
+Pro repozitáře, kde se tento model používá, může stručné veřejné prohlášení znít:
+
+> **Commercial Use Policy:** Tento projekt může být používán bezplatně v komerčních i nekomerčních kontextech pouze tam, kde je to výslovně povoleno licencí a dokumentací repozitáře. Veřejně vydané komponenty jsou sdíleny za účelem podpory experimentování, produktivity a inovací. Tvůrce si však ponechává vlastnictví chráněného core kódu, proprietární architektury, neuvolněných modulů, brandingu projektu a strategických interních implementací spojených s Johnem / Janem Havlaskem, Qyvaria a Qyvaria OS. Přesné právní podmínky určuje konkrétní soubor LICENSE daného repozitáře.
+
+---
+
+<a id="spoluprace"></a>
+# Spolupráce
+
+Jsem otevřený seriózní technické diskusi a promyšlené spolupráci kolem:
+
+* AI engineeringu
+* Kybernetiky
+* Inteligentního řízení
+* Agentních systémů
+* Simulačních konceptů
+* Systémů člověk–stroj
+* Automatizace a orchestrace
+* Technických projektů silně založených na dokumentaci
+* Experimentálních softwarových ekosystémů
+
+Vážím si spolupráce, která respektuje:
+
+* Jasné vlastnictví
+* Licencování repozitářů
+* Atribuci
+* Promyšlenou technickou komunikaci
+* Chráněné strategické základy
+* Seriózní dlouhodobý směr
+
+---
+
+<a id="hlubsi-panely"></a>
+# Hlubší panely
+
+<details>
+  <summary><strong>🧭 Doktrína Qyvaria OS</strong></summary>
+  <br/>
+  <p><strong>Qyvaria OS</strong> je systémová vize inteligentních softwarových prostředí. Reprezentuje koordinaci, orchestraci, modulární runtime thinking a člověkem řízenou komplexitu.</p>
+  <p>Dlouhodobou doktrínu lze shrnout takto:</p>
+  <ul>
+    <li>Budovat znovupoužitelné architektury, ne jednorázové fragmenty.</li>
+    <li>Používat AI jako organizovanou vrstvu schopností, ne pouze jako chatbot.</li>
+    <li>Zachovat lidský směr, oprávnění a úsudek.</li>
+    <li>Dokumentovat systém během růstu, aby mu budoucí spolupracovníci rozuměli.</li>
+    <li>Vyvažovat otevřenost se strategickou ochranou původní práce.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🧠 Výzkumné a inženýrské zájmy</strong></summary>
+  <br/>
+  <ul>
+    <li>Orchestrace agentních workflow</li>
+    <li>AI simulační prostředí</li>
+    <li>Koncepty paměti a retrievalu</li>
+    <li>Evaluační a self-checking utility</li>
+    <li>Voice-first a multimodální systémy</li>
+    <li>Inteligentní rozhraní zaměřená na člověka</li>
+    <li>Systémová architektura pro vznikající AI produkty</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>⚖️ Shrnutí hybridního licencování</strong></summary>
+  <br/>
+  <p>Filozofie je jednoduchá: <strong>sdílet užitečný veřejný software štědře tam, kde to výslovné podmínky dovolují, včetně komerčního použití tam, kde je uděleno, a zároveň chránit core vynálezy, strategickou architekturu, neuvolněné implementace a dlouhodobou identitu Qyvaria.</strong></p>
+  <p>Díky tomu mohou veřejné projekty zůstat praktické a přívětivé k adopci bez nechtěného převodu vlastnictví hlubší platformové vize.</p>
+</details>
+
+<details>
+  <summary><strong>📌 Čím se tento GitHub profil stává</strong></summary>
+  <br/>
+  <p>Tento profil má být veřejným command centrem pro:</p>
+  <ul>
+    <li>Qyvaria a Qyvaria OS</li>
+    <li>AI inženýrské experimenty</li>
+    <li>Dokumentaci a systémové narativy</li>
+    <li>Simulačně orientované koncepty</li>
+    <li>Tooling, utility a orchestrační nápady</li>
+    <li>Kolaborativní technickou diskusi</li>
+  </ul>
+</details>
+
+---
+
+<a id="kontakt"></a>
+# Kontakt
+
+<p align="center">
+  <a href="https://qyvaria-ai-studio-index.vercel.app/">
+    <img src="https://img.shields.io/badge/Qyvaria%20AI%20Studio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Navštívit Qyvaria AI Studio" />
+  </a>
+  <a href="https://github.com/Havlasek1John">
+    <img src="https://img.shields.io/badge/GitHub-%40Havlasek1John-181717?style=for-the-badge&logo=github&logoColor=white" alt="Havlasek1John GitHub" />
+  </a>
+</p>
+
+---
+
+<a id="zaverecne-prohlaseni"></a>
+# Závěrečné prohlášení
+
+Buduję **Qyvaria**, **Qyvaria AI** a **Qyvaria OS** jako ambiciózní, dlouhodobé technické směry zaměřené na inteligentní systémy, orchestraci, software orientovaný na člověka, kybernetické myšlení a budoucnostně zaměřené inženýrství.
+
+Moji práci vede jednoduché přesvědčení:
+
+> **Budoucnost AI nebude formována jen silnějšími modely, ale lepšími systémy okolo nich — lepší orchestrací, lepšími rozhraními, lepší kontrolou, lepší dokumentací, lepšími bezpečnostními hranicemi a lepším sladěním lidského účelu se schopnostmi strojů.**
 
 <p align="center">
   <em>Engineering intelligent systems with clarity, ambition, and long-term vision.</em>
